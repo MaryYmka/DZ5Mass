@@ -1,0 +1,15 @@
+C:\Users\Mary\Desktop\Dom5Mass\Zadanie2\obj\Debug\net6.0\Zadanie2.csproj.AssemblyReference.cache
+C:\Users\Mary\Desktop\Dom5Mass\Zadanie2\obj\Debug\net6.0\Zadanie2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mary\Desktop\Dom5Mass\Zadanie2\obj\Debug\net6.0\Zadanie2.AssemblyInfoInputs.cache
+C:\Users\Mary\Desktop\Dom5Mass\Zadanie2\obj\Debug\net6.0\Zadanie2.AssemblyInfo.cs
+C:\Users\Mary\Desktop\Dom5Mass\Zadanie2\obj\Debug\net6.0\Zadanie2.csproj.CoreCompileInputs.cache
+C:\Users\Mary\Desktop\Dom5Mass\Zadanie2\bin\Debug\net6.0\Zadanie2.exe
+C:\Users\Mary\Desktop\Dom5Mass\Zadanie2\bin\Debug\net6.0\Zadanie2.deps.json
+C:\Users\Mary\Desktop\Dom5Mass\Zadanie2\bin\Debug\net6.0\Zadanie2.runtimeconfig.json
+C:\Users\Mary\Desktop\Dom5Mass\Zadanie2\bin\Debug\net6.0\Zadanie2.dll
+C:\Users\Mary\Desktop\Dom5Mass\Zadanie2\bin\Debug\net6.0\Zadanie2.pdb
+C:\Users\Mary\Desktop\Dom5Mass\Zadanie2\obj\Debug\net6.0\Zadanie2.dll
+C:\Users\Mary\Desktop\Dom5Mass\Zadanie2\obj\Debug\net6.0\refint\Zadanie2.dll
+C:\Users\Mary\Desktop\Dom5Mass\Zadanie2\obj\Debug\net6.0\Zadanie2.pdb
+C:\Users\Mary\Desktop\Dom5Mass\Zadanie2\obj\Debug\net6.0\Zadanie2.genruntimeconfig.cache
+C:\Users\Mary\Desktop\Dom5Mass\Zadanie2\obj\Debug\net6.0\ref\Zadanie2.dll
