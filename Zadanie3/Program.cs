@@ -45,7 +45,7 @@ void minSumm(int[,] array)
     int min = 0;
     for (int i = 0; i < array.GetLength(0); i++)
     {
-        for (int j = 0; j < arr.GetLength(1); j++)
+        for (int j = 0; j < array.GetLength(1); j++)
         {
           if (array[i, 0] <= min )
         {
@@ -58,4 +58,3 @@ void minSumm(int[,] array)
 PrintArray(arr);
 SumElement(arr);
 minSumm(arr);
-Console.WriteLine("{min}");
